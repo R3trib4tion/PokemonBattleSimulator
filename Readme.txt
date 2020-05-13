@@ -3,7 +3,7 @@ There are 2 versions:
 2) Pure simulation version
 
 Game story version shows the action in real time
-Pure simulation version does 1000 simulated battles but do 
+Pure simulation version does 1000 simulated battles but do not
 show the actions in real time.
 
 To run the program, press F5 or click run.
